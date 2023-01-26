@@ -1,0 +1,33 @@
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\appsettings.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\API Dio.exe
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\API Dio.deps.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\API Dio.runtimeconfig.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\API Dio.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\API Dio.pdb
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.csproj.AssemblyReference.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.AssemblyInfoInputs.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.AssemblyInfo.cs
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.csproj.CoreCompileInputs.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.API Dio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.build.API Dio.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API Dio.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API Dio.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\scopedcss\bundle\API Dio.styles.css
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.csproj.CopyComplete
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\refint\API Dio.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.pdb
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\API Dio.genruntimeconfig.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ref\API Dio.dll
