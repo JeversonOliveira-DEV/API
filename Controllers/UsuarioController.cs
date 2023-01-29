@@ -15,8 +15,8 @@ namespace ModuloAPI.Controllers
         {
             var obj = new
             {
-                Data = MvcDataAnnotationsMvcBuilderExtensions.Now.ToLongDateString(),
-                Hora = MvcDataAnnotationsMvcBuilderExtensions.Now.ToShortTimeString()
+                Data = DateTime.Now.ToLongDateString(),
+                Hora = DateTime.Now.ToShortTimeString()
             };
 
             return Ok(obj);
@@ -26,7 +26,7 @@ namespace ModuloAPI.Controllers
         public IActionResult Apresentar(string name)
         {
             var mensagem = $"Olá {name}, Seja bem vindo";
-            return Ok(new Object{ mensagem });
+            return Ok(new { mensagem });
         }
     }
 }

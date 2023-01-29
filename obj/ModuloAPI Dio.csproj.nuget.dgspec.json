@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\API Dio.csproj": {}
+    "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\ModuloAPI Dio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\API Dio.csproj": {
+    "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\ModuloAPI Dio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\API Dio.csproj",
-        "projectName": "API Dio",
-        "projectPath": "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\API Dio.csproj",
+        "projectUniqueName": "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\ModuloAPI Dio.csproj",
+        "projectName": "ModuloAPI Dio",
+        "projectPath": "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\ModuloAPI Dio.csproj",
         "packagesPath": "C:\\Users\\jever\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jever\\Desktop\\Estudo\\Programação\\Consquiste sua Vaga\\API Dio\\obj\\",
         "projectStyle": "PackageReference",
@@ -41,6 +41,10 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[7.0.2, )"
             },
