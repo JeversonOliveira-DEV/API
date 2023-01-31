@@ -1,0 +1,76 @@
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\appsettings.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\ModuloAPI Dio.exe
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\ModuloAPI Dio.deps.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\ModuloAPI Dio.runtimeconfig.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\ModuloAPI Dio.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\ModuloAPI Dio.pdb
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Humanizer.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.csproj.AssemblyReference.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.AssemblyInfoInputs.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.AssemblyInfo.cs
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.csproj.CoreCompileInputs.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.ModuloAPI Dio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.build.ModuloAPI Dio.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ModuloAPI Dio.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ModuloAPI Dio.props
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\scopedcss\bundle\ModuloAPI Dio.styles.css
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.csproj.CopyComplete
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\refint\ModuloAPI Dio.dll
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.pdb
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ModuloAPI Dio.genruntimeconfig.cache
+C:\Users\jever\Desktop\Estudo\Programação\Consquiste sua Vaga\API Dio\obj\Debug\net7.0\ref\ModuloAPI Dio.dll
