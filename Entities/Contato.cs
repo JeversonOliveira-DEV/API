@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace API_Dio.Entities
 {
-    public class Contat
+    public class Contato
     {
-        public int ID { get; set; }
-        public string Nome { get; set; }
+        public int Id { get; set; }
+        public string Nome {  get; set; }
         public string Telefone { get; set; }
-        public bool Ativo { get; set;}
+        public bool Ativo { get; set; }
     }
 }
